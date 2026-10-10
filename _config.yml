@@ -21,7 +21,7 @@ baseurl: ""
 #  Site settings — usually no need to touch below this line
 # ------------------------------------------------------------
 title: "Beatrise Bertule"
-description: "Webpage of Bea"
+description: "Personal page"
 lang: en
 markdown: kramdown
 permalink: pretty
