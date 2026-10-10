@@ -4,8 +4,8 @@ title: Hobbies
 description: Climbing, creating, and exploring beyond the screen.
 ---
 
-<h1>The Personal Side</h1>
-<!-- <h1>The In-Between</h1> -->
+<!-- <h1>The Personal Side</h1> -->
+<h1>The In-Between</h1>
 
 <p class="lead">
   I enjoy challenging myself, spending time outdoors, and making things
