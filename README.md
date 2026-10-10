@@ -1,21 +1,9 @@
-# My personal website
+# My website
 
 A simple personal site (About · Experience · Hobbies · CV) built with Jekyll and
 deployed automatically to **GitHub Pages** by a GitHub Actions workflow.
 
-## Put it online (5 minutes)
-
-1. **Create a repo** on GitHub named `<your-username>.github.io`
-   (then your site lives at `https://<your-username>.github.io`).
-   Any other name works too — see the `baseurl` note below.
-2. **Upload these files** to the repo (drag-and-drop in the GitHub web UI, or `git push`).
-   Make sure the `.github/workflows/pages.yml` file is included.
-3. In the repo go to **Settings → Pages → Build and deployment → Source** and choose
-   **GitHub Actions**.
-4. Open the **Actions** tab — the "Deploy site to GitHub Pages" workflow runs on every
-   push to `main`. When it turns green, your site is live.
-
-## Make it yours
+## TODO: change
 
 | What                         | Where                                  |
 |------------------------------|----------------------------------------|
