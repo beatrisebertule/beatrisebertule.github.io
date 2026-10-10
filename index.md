@@ -18,7 +18,7 @@ title: About
   <a class="btn" href="{{ site.links.github }}" target="_blank" rel="noopener">GitHub</a>
 </div>
 
-## Who I am
+## whoami
 
 I am passionate about cryptographic engineering, hardware and embedded security, and privacy-enhancing technologies. I am particularly interested in the intersection of cryptography and secure system design, as well as the mechanisms that enable privacy and security at both the hardware and software levels.
 

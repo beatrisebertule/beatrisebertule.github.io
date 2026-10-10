@@ -86,7 +86,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   <li>
     <h3>MSc Cybersecurity</h3>
     <div class="meta">Radboud University · 2026 – present</div>
-    <p>Radboud CTF Team</p>
+    <p>Radboud CTF Team, Student Assistant</p>
   </li>
 </ul>
 
