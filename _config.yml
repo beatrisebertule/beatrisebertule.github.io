@@ -1,14 +1,14 @@
 # ------------------------------------------------------------
 #  EDIT THIS FILE FIRST — all your personal details live here
 # ------------------------------------------------------------
-name: "Bea Ber"
+name: "Beatrise Bertule"
 tagline: "Cybersecurity · Cryptographic Engineer · Hardware & Embedded System Security"
 location: "Nijmegen, the Netherlands"
 email: "you@example.com"
 
 links:
-  github: "https://github.com/your-username"
-  linkedin: "https://www.linkedin.com/in/your-profile"
+  github: "https://github.com/beatrisebertule"
+  linkedin: "https://www.linkedin.com/in/beatrisebertule"
 
 # Put your CV PDF at assets/cv.pdf (replace the placeholder file)
 cv_pdf: "/assets/cv.pdf"
@@ -20,8 +20,8 @@ baseurl: ""
 # ------------------------------------------------------------
 #  Site settings — usually no need to touch below this line
 # ------------------------------------------------------------
-title: "Your Name"
-description: "Personal website of Your Name"
+title: "Beatrise Bertule"
+description: "Webpage of Bea"
 lang: en
 markdown: kramdown
 permalink: pretty
