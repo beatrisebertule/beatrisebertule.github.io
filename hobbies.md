@@ -26,7 +26,7 @@ description: Climbing, creating, and exploring beyond the screen.
   </div>
 
   <div class="card">
-    <h3>Pottery</h3>
+    <h3>Pottery & Crochet</h3>
     <p>
       I enjoy working with my hands and turning raw materials into
       something tangible. Pottery gives me space to experiment, embrace

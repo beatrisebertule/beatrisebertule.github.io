@@ -31,6 +31,24 @@ When I am not studying or climbing, I enjoy working with my hands and exploring 
 
 Whether I am exploring the inner workings of secure systems, finding my way up a climbing route, or creating something by hand, I am driven by curiosity, a willingness to challenge myself, and a desire to understand how things work.
 
+<div class="callout">
+  <span class="status"><span class="dot"></span>Open to opportunities</span>
+  <h2>Seeking a 2027 Cybersecurity Research Internship</h2>
+  <p>
+    I’m currently looking for a research internship starting in February 2027 in the field of cybersecurity. I’m particularly interested in offensive security, cryptographic engineering, and hardware security, with a strong focus on side-channel attacks against post-quantum cryptographic implementations.
+  </p>
+  <p>
+    I’m eager to contribute to challenging research projects, deepen my technical expertise, and explore the security of cryptographic implementations from both a theoretical and practical perspective. I’m especially interested in opportunities involving hands-on security research, vulnerability analysis, and the evaluation of real-world implementations.
+  </p>
+  <p>
+    If your team is looking for an intern or knows of any relevant opportunities, I’d love to connect and discuss how I could contribute to your research!
+  </p>
+  <div class="buttons">
+    <a class="btn primary" href="mailto:{{ site.email }}?subject=Cybersecurity%20research%20internship%202027">Get in touch</a>
+    <a class="btn" href="{{ '/cv/' | relative_url }}">View my CV</a>
+  </div>
+</div>
+
 <!-- ## What you'll find here -->
 
 <div class="cards">

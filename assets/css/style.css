@@ -202,3 +202,45 @@ pre code { background: none; padding: 0; }
 @media (max-width: 600px) {
   .photos { grid-template-columns: 1fr; }  /* stack on phones */
 }
+/* internship callout on the About page */
+.callout {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 28px 0 8px;
+  padding: 22px 24px;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-left: 6px solid var(--accent);
+  border-radius: var(--radius);
+}
+.callout h2 { margin: 0; font-size: 1.4rem; }
+.callout p { margin: 0; }
+.callout .buttons { margin: 10px 0 0; }
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--serif);
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%   { box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 55%, transparent); }
+  70%  { box-shadow: 0 0 0 10px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dot { animation: none; }
+}

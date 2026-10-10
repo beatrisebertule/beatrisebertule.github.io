@@ -32,6 +32,35 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
 
 <ul class="timeline">
   <li>
+    <h3>Research Intern — Digital Security Lab at Radboud University</h3>
+    <div class="meta">Sep 2025 – Jan 2026 · Nijmegen</div>
+    <ul>
+      <li>Adapted Mamba neural network for side-channel attacks on protected AES.</li>
+      <li>Successfully recovered secret cryptographic material.</li>
+      <li>Composed a scientific report.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Freelance Software Developer — Faculty of Science at Radboud University</h3>
+    <div class="meta">Jul 2025 – Jan 2026 · Nijmegen</div>
+    <ul>
+      <li>Developed a web-base platform to enable undergraduate chemistry students to practice and explore organic molecule structures.</li>
+      <li>Worked with a wider development team.</li>
+      <li>Docker, Python, Streamlit experience.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Software Developer Intern — XLRT</h3>
+    <div class="meta">Jan 2025 – Jul 2025 · Nijmegen</div>
+    <ul>
+      <li>Adapted Timefold solver to address a bin-packing optimization problem.</li>
+      <li>Built an interactive frontend for visualization of the optimized solution.</li>
+      <li>Compared the solver perofmance with deterministic greedy algorithms.</li>
+      <li>Worked with a wider development team.</li>
+      <li>Docker, React, Spring Boot, Timefold experience.</li>
+    </ul>
+  </li>
+  <li>
     <h3>Student Assistant — Faculty of Science at Radboud University</h3>
     <div class="meta">Sep 2022 – present · Njmegen</div>
     <ul>
@@ -47,35 +76,6 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
     <ul>
       <li>Guided applications through each step of the admission process and explained requirements in a clear and accessible way.</li>
       <li>Offered friendly, culturally aware support to prospective students from diverse backgrounds.</li>
-    </ul>
-  </li>
-  <li>
-    <h3>Freelance Software Developer — Faculty of Science at Radboud University</h3>
-    <div class="meta">Jul 2025 – Jan 2026 · Nijmegen</div>
-    <ul>
-      <li>Developed a web-base platform to enable undergraduate chemistry students to practice and explore organic molecule structures.</li>
-      <li>Worked with a wider development team.</li>
-      <li>Docker, Python, Streamlit experience.</li>
-    </ul>
-  </li>
-  <li>
-    <h3>Research Intern — Digital Security Lab at Radboud University</h3>
-    <div class="meta">Sep 2025 – Jan 2026 · Nijmegen</div>
-    <ul>
-      <li>Adapted Mamba neural network for side-channel attacks on protected AES.</li>
-      <li>Successfully recovered secret cryptographic material.</li>
-      <li>Composed a scientific report.</li>
-    </ul>
-  </li>
-  <li>
-    <h3>Software Developer Intern — XLRT</h3>
-    <div class="meta">Jan 2025 – Jul 2025 · Nijmegen</div>
-    <ul>
-      <li>Adapted Timefold solver to address a bin-packing optimization problem.</li>
-      <li>Built an interactive frontend for visualization of the optimized solution.</li>
-      <li>Compared the solver perofmance with deterministic greedy algorithms.</li>
-      <li>Worked with a wider development team.</li>
-      <li>Docker, React, Spring Boot, Timefold experience.</li>
     </ul>
   </li>
 </ul>
@@ -115,7 +115,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   <li>Python</li>
   <li>C &amp; C++</li>
   <li>Assembly</li>
-  <li>PyTorch</li>
+  <li>PyTorch & Tensorflow</li>
   <li>Linux</li>
   <li>Kali Linux</li>
   <li>Docker</li>
