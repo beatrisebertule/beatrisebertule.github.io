@@ -1,28 +1,54 @@
 :root {
-  --bg: #faf8f4;
+  --bg: #faf7f6;
   --surface: #ffffff;
-  --text: #1f1d1a;
-  --muted: #6b665e;
-  --line: #e7e2d9;
-  --accent: #c2410c;
-  --accent-soft: #fdeee4;
+  --text: #1f1a1a;
+  --muted: #6e6463;
+  --line: #ebe0de;
+  --accent: #991b1b;
+  --accent-soft: #fbeaea;
   --radius: 14px;
-  --max: 760px;
+  --max: 800px;
   --serif: "Fraunces", Georgia, serif;
   --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #161513;
-    --surface: #1f1d1a;
-    --text: #ece8e1;
-    --muted: #a29c92;
-    --line: #2f2c28;
-    --accent: #fb923c;
-    --accent-soft: #2e1f14;
+    --bg: #161313;
+    --surface: #1f1a1a;
+    --text: #ede7e6;
+    --muted: #a69d9c;
+    --line: #302928;
+    --accent: #e05a5a;
+    --accent-soft: #2e1a1a;
   }
 }
+
+/* :root {
+  --bg: #faf7f7;
+  --surface: #ffffff;
+  --text: #1f1a1c;
+  --muted: #6e6266;
+  --line: #ebdfe2;
+  --accent: #7a1f3d;
+  --accent-soft: #f6e8ec;
+  --radius: 14px;
+  --max: 800px;
+  --serif: "Fraunces", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161214;
+    --surface: #1f191b;
+    --text: #ede6e8;
+    --muted: #a69b9f;
+    --line: #30282b;
+    --accent: #c9587a;
+    --accent-soft: #2e1a21;
+  }
+} */
 
 * { box-sizing: border-box; }
 
@@ -157,3 +183,22 @@ pre {
   padding: 14px 16px; overflow-x: auto; font-size: .9rem;
 }
 pre code { background: none; padding: 0; }
+
+/* photo gallery: equal-size images side by side */
+.photos {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  max-width: 800px;     /* overall size; lower it for smaller photos */
+  margin: 16px 0;
+}
+.photos img {
+  width: 100%;
+  aspect-ratio: 4 / 3;  /* same height too; crops slightly if shapes differ */
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+@media (max-width: 600px) {
+  .photos { grid-template-columns: 1fr; }  /* stack on phones */
+}

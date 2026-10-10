@@ -2,13 +2,13 @@
 #  EDIT THIS FILE FIRST — all your personal details live here
 # ------------------------------------------------------------
 name: "Beatrise Bertule"
-tagline: "Cybersecurity · Cryptographic Engineer · Hardware & Embedded System Security"
+tagline: "Cybersecurity · Cryptographic Engineering · Hardware & Embedded System Security"
 location: "Nijmegen, the Netherlands"
-email: "you@example.com"
+email: "beatrise.bertule@ru.nl"
 
 links:
   github: "https://github.com/beatrisebertule"
-  linkedin: "https://www.linkedin.com/in/beatrisebertule"
+  linkedin: "https://www.linkedin.com/in/beatrise-bertule"
 
 # Put your CV PDF at assets/cv.pdf (replace the placeholder file)
 cv_pdf: "/assets/cv.pdf"

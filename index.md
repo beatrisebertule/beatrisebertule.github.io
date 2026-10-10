@@ -4,7 +4,7 @@ title: About
 ---
 
 <div class="hero">
-  <img class="avatar" src="{{ '/assets/img/avatar.svg' | relative_url }}" alt="Photo of {{ site.name }}">
+  <img class="avatar" src="{{ '/assets/img/bea-happy.jpeg' | relative_url }}" alt="Photo of {{ site.name }}">
   <div class="hero-text">
     <h1>{{ site.name }}</h1>
     <p class="lead">{{ site.tagline }}</p>
@@ -31,7 +31,7 @@ When I am not studying or climbing, I enjoy working with my hands and exploring 
 
 Whether I am exploring the inner workings of secure systems, finding my way up a climbing route, or creating something by hand, I am driven by curiosity, a willingness to challenge myself, and a desire to understand how things work.
 
-## What you'll find here
+<!-- ## What you'll find here -->
 
 <div class="cards">
   <a class="card" href="{{ '/experience/' | relative_url }}" style="text-decoration:none">
@@ -48,7 +48,7 @@ Whether I am exploring the inner workings of secure systems, finding my way up a
   </a>
 </div>
 
-## Get in touch
+## Get In touch
 
 The easiest way to reach me is by [email](mailto:{{ site.email }}) or on
 [LinkedIn]({{ site.links.linkedin }}).
