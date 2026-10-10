@@ -1,0 +1,43 @@
+# ------------------------------------------------------------
+#  EDIT THIS FILE FIRST — all your personal details live here
+# ------------------------------------------------------------
+name: "Your Name"
+tagline: "Software engineer · curious builder · lifelong learner"
+location: "Groesbeek, the Netherlands"
+email: "you@example.com"
+
+links:
+  github: "https://github.com/your-username"
+  linkedin: "https://www.linkedin.com/in/your-profile"
+
+# Put your CV PDF at assets/cv.pdf (replace the placeholder file)
+cv_pdf: "/assets/cv.pdf"
+
+# If your repo is named <username>.github.io leave this empty.
+# If it is any other name (e.g. "website"), set it to "/website".
+baseurl: ""
+
+# ------------------------------------------------------------
+#  Site settings — usually no need to touch below this line
+# ------------------------------------------------------------
+title: "Your Name"
+description: "Personal website of Your Name"
+lang: en
+markdown: kramdown
+permalink: pretty
+
+nav:
+  - title: About
+    url: /
+  - title: Experience
+    url: /experience/
+  - title: Hobbies
+    url: /hobbies/
+  - title: CV
+    url: /cv/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
