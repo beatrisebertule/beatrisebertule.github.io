@@ -10,24 +10,19 @@ description: What I do outside of work
 
 <div class="cards">
   <div class="card">
-    <span class="emoji">🚴</span>
-    <h3>Cycling</h3>
-    <p>Replace with a hobby and a sentence about why you love it.</p>
+    <!-- <span class="emoji">🚴</span> -->
+    <h3>Rock Climbing</h3>
+    <p>Outdoor single pitch lead and highline.</p>
   </div>
   <div class="card">
-    <span class="emoji">📚</span>
-    <h3>Reading</h3>
-    <p>What kind of books, and maybe a recent favourite.</p>
+    <!-- <span class="emoji">📚</span> -->
+    <h3>Pottery</h3>
+    <p>I like to make things.</p>
   </div>
   <div class="card">
-    <span class="emoji">📷</span>
-    <h3>Photography</h3>
-    <p>What you like to shoot and where.</p>
-  </div>
-  <div class="card">
-    <span class="emoji">🛠️</span>
-    <h3>Side projects</h3>
-    <p>Things you build just for fun — link to them on GitHub.</p>
+    <!-- <span class="emoji">📷</span> -->
+    <h3>Film Photography</h3>
+    <p>I collect old analog cameras and take pictures of wildlife an my friends.</p>
   </div>
 </div>
 
