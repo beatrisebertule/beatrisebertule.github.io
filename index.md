@@ -6,7 +6,7 @@ title: About
 <div class="hero">
   <img class="avatar" src="{{ '/assets/img/avatar.svg' | relative_url }}" alt="Photo of {{ site.name }}">
   <div class="hero-text">
-    <h1>Hi, I'm {{ site.name }} 👋</h1>
+    <h1>{{ site.name }}</h1>
     <p class="lead">{{ site.tagline }}</p>
     <p class="muted small">📍 {{ site.location }}</p>
   </div>
@@ -20,28 +20,29 @@ title: About
 
 ## Who I am
 
-Write two or three short paragraphs about yourself here. What do you do, what
-drives you, and what are you working on right now? Keep it personal and simple —
-this is the first thing visitors read.
+I am passionate about cryptographic engineering, hardware and embedded security, and privacy-enhancing technologies. I am particularly interested in the intersection of cryptography and secure system design, as well as the mechanisms that enable privacy and security at both the hardware and software levels.
 
-For example: I'm a developer who enjoys turning messy problems into clear, useful
-tools. I've spent the last few years working on … and I'm currently exploring …
+Beyond technical aspects of security, I am fascinated by the philosophical and societal dimensions of digital privacy, particularly questions surrounding surveillance capitalism, digital autonomy, and the growing collection and exploitation of personal data. I am interested in how cryptographic techniques and privacy-preserving technologies can help address these challenges.
+
+My goal is to contribute to the development of secure systems that not only protect data but also respect individual privacy and autonomy.
+
+Outside the technical world, I am a rock climber and an enthusiastic explorer of the outdoors. I try to seek out new experiences, push beyond my comfort zone, and confront the fears that come with doing something unfamiliar. For me, climbing is as much about patience, problem-solving, and trusting the process as it is about reaching the top.
+When I am not studying or climbing, I enjoy working with my hands and exploring different forms of creative expression. I shoot film photography and I practice pottery. These crafts offer a counterbalance to my technical work, allowing me to slow down, experiment, and engage with the world in a more tangible way.
+
+Whether I am exploring the inner workings of secure systems, finding my way up a climbing route, or creating something by hand, I am driven by curiosity, a willingness to challenge myself, and a desire to understand how things work.
 
 ## What you'll find here
 
 <div class="cards">
   <a class="card" href="{{ '/experience/' | relative_url }}" style="text-decoration:none">
-    <span class="emoji">💼</span>
     <h3>Experience</h3>
     <p>Where I've worked and what I care about professionally.</p>
   </a>
   <a class="card" href="{{ '/hobbies/' | relative_url }}" style="text-decoration:none">
-    <span class="emoji">🎨</span>
     <h3>Hobbies</h3>
     <p>What I get up to when I'm not working.</p>
   </a>
   <a class="card" href="{{ '/cv/' | relative_url }}" style="text-decoration:none">
-    <span class="emoji">📄</span>
     <h3>CV</h3>
     <p>My full CV, to read online or download as PDF.</p>
   </a>
