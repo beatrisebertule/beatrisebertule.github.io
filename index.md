@@ -44,7 +44,7 @@ Whether I am exploring the inner workings of secure systems, finding my way up a
     If your team is looking for an intern or knows of any relevant opportunities, I’d love to connect and discuss how I could contribute to your research!
   </p>
   <div class="buttons">
-    <a class="btn primary" href="mailto:{{ site.email }}?subject=Cybersecurity%20research%20internship%202027">Get in Touch</a>
+    <a class="btn primary" href="mailto:{{ site.email }}?subject=Cybersecurity%20research%20internship%202027">Get In Touch</a>
     <a class="btn" href="{{ '/cv/' | relative_url }}">View my CV</a>
   </div>
 </div>
