@@ -9,7 +9,7 @@ description: Curriculum vitae
 <p class="lead">My CV is public — read it below or download the PDF.</p>
 
 <div class="buttons">
-  <a class="btn primary" href="{{ site.cv_pdf | relative_url }}" download>⬇ Download PDF</a>
+  <a class="btn primary" href="{{ site.cv_pdf | relative_url }}" download>Download PDF</a>
   <a class="btn" href="{{ site.cv_pdf | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
 </div>
 
