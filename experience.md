@@ -101,10 +101,10 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
 ## Skills
 
 <ul class="tags">
-  <li>Cryptographic Engineering</li>
-  <li>Side-Channel Analysis</li>
+  <!-- <li>Cryptographic Engineering</li> -->
+  <li>Side-Channel Attacks</li>
   <li>Applied Cryptography</li>
-  <li>Hardware Security</li>
+  <!-- <li>Hardware Security</li> -->
   <!-- <li>Embedded Systems Security</li> -->
   <li>Systems Security</li>
   <li>Vulnerability Research</li>
@@ -114,7 +114,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   <li>Machine Learning for Security</li>
   <li>Python</li>
   <li>C &amp; C++</li>
-  <li>Assembly</li>
+  <!-- <li>Assembly</li> -->
   <li>PyTorch & Tensorflow</li>
   <li>Linux</li>
   <li>Kali Linux</li>
