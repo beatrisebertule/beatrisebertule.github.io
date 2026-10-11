@@ -1,6 +1,3 @@
-# ------------------------------------------------------------
-#  EDIT THIS FILE FIRST — all your personal details live here
-# ------------------------------------------------------------
 name: "Beatrise Bertule"
 tagline: "Master's Cybersecurity Student · Cryptographic Engineering · Hardware & Embedded System Security"
 location: "Nijmegen, the Netherlands"
@@ -10,16 +7,11 @@ links:
   github: "https://github.com/beatrisebertule"
   linkedin: "https://www.linkedin.com/in/beatrise-bertule"
 
-# Put your CV PDF at assets/cv.pdf (replace the placeholder file)
 cv_pdf: "/assets/cv.pdf"
+thesis_pdf: "/assets/mamba-sca-thesis.pdf"
 
-# If your repo is named <username>.github.io leave this empty.
-# If it is any other name (e.g. "website"), set it to "/website".
 baseurl: ""
 
-# ------------------------------------------------------------
-#  Site settings — usually no need to touch below this line
-# ------------------------------------------------------------
 title: "Beatrise Bertule"
 description: "Personal page"
 lang: en

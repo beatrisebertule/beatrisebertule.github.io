@@ -80,6 +80,46 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   </li>
 </ul>
 
+<!-- ## BSc Thesis
+
+<p class="lead"><em>Mamba for Side-Channel Attacks: Bidirectional State-Space Encoders Against Masked AES</em></p>
+
+<p>Adapted the Mamba selective state-space model into a bidirectional encoder for profiled side-channel attacks, recovering the secret key from first-order masked AES-128 traces (ASCADv1) and benchmarking it against a parameter-matched MLP.</p>
+
+<div class="buttons">
+  <a class="btn primary" href="{{ site.thesis_pdf | relative_url }}" download>⬇ Download PDF</a>
+  <a class="btn" href="{{ site.thesis_pdf | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+  <a class="btn" href="https://github.com/beatrisebertule/mamba-side-channel-attack-dlsca" target="_blank" rel="noopener">Code on GitHub</a>
+</div> -->
+
+<!-- <object class="pdf-frame" data="{{ site.thesis_pdf | relative_url }}" type="application/pdf">
+  <p class="muted">Your browser can't show the PDF here —
+  <a href="{{ site.thesis_pdf | relative_url }}">download it instead</a>.</p>
+</object> -->
+
+<!-- <details class="paper-preview">
+  <summary>Preview paper</summary>
+  <object class="pdf-frame" data="{{ '/assets/mamba-sca-thesis.pdf' | relative_url }}" type="application/pdf">
+    <p class="muted">Your browser can't show the PDF here —
+    <a href="{{ '/assets/mamba-sca-thesis.pdf' | relative_url }}">download it instead</a>.</p>
+  </object>
+</details>
+
+<style>
+  .paper-preview { margin-top: 0.75rem; }
+  .paper-preview summary {
+    cursor: pointer;
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+  .paper-preview summary:hover { opacity: 1; }
+  .paper-preview .pdf-frame {
+    height: 420px;
+    max-width: 640px;
+    margin-top: 0.75rem;
+  }
+</style> -->
+
 ## Education
 
 <ul class="timeline">
