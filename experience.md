@@ -38,6 +38,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
       <li>Adapted Mamba neural network for side-channel attacks on protected AES.</li>
       <li>Successfully recovered secret cryptographic material.</li>
       <li>Composed a scientific report.</li>
+      <li>Supervised by Prof. Lejla Batina and PhD candidate Lizzy Grootjen. Grade: 8.5</li>
     </ul>
   </li>
   <li>

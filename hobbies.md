@@ -68,7 +68,7 @@ description: Climbing, creating, and exploring beyond the screen.
 <div class="photos">
   <img
     src="{{ '/assets/img/bea-top-rope.jpeg' | relative_url }}"
-    alt="Climbing outdoors"
+    alt="Outdoor climbing in Pula"
     loading="lazy"
   >
     <img
@@ -78,7 +78,7 @@ description: Climbing, creating, and exploring beyond the screen.
   >
   <img
     src="{{ '/assets/img/bea-boulder-more.jpeg' | relative_url }}"
-    alt="Another outdoor bouldering session"
+    alt="Another outdoor bouldering session in Fontainebleau"
     loading="lazy"
   >
     <img
@@ -109,22 +109,22 @@ description: Climbing, creating, and exploring beyond the screen.
 <div class="photos">
   <img
     src="{{ '/assets/img/mountain.jpeg' | relative_url }}"
-    alt="Outdoor bouldering in Fontainebleau"
+    alt="Tatri mountains"
     loading="lazy"
   >
   <img
     src="{{ '/assets/img/colour-mush.jpeg' | relative_url }}"
-    alt="Highlining in Pula"
+    alt="Unidentified mushroom in Heumensoord"
     loading="lazy"
   >
     <img
     src="{{ '/assets/img/small-mushroom.jpeg' | relative_url }}"
-    alt="Outdoor bouldering in Fontainebleau"
+    alt="Unidentified mushroom in Heumensoord"
     loading="lazy"
   >
   <img
     src="{{ '/assets/img/sheep.jpeg' | relative_url }}"
-    alt="Highlining in Pula"
+    alt="Shepard with sheeps in Tatri mountains"
     loading="lazy"
   >
 </div>
