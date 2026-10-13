@@ -32,7 +32,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
 
 <ul class="timeline">
   <li>
-    <h3>Research Intern (BCs Thesis)— Digital Security Lab at Radboud University</h3>
+    <h3>Research Intern (BCs Thesis) — Digital Security Lab at Radboud University</h3>
     <div class="meta">Sep 2025 – Jan 2026 · Nijmegen</div>
     <ul>
       <li>Adapted Mamba neural network for side-channel attacks on protected AES.</li>
