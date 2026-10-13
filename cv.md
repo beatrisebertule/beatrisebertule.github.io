@@ -10,7 +10,7 @@ description: Curriculum vitae
 
 <div class="buttons">
   <a class="btn primary" href="{{ site.cv_pdf | relative_url }}" download>Download PDF</a>
-  <a class="btn" href="{{ site.cv_pdf | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+  <a class="btn" href="{{ site.cv_pdf | relative_url }}" target="_blank" rel="noopener">Open in New Tab</a>
 </div>
 
 <object class="pdf-frame" data="{{ site.cv_pdf | relative_url }}" type="application/pdf">
