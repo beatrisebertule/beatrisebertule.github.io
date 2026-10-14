@@ -28,7 +28,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   <li>Vulnerability Research</li>
 </ul> -->
 
-## Work Experience
+## Relevant Experience
 
 <ul class="timeline">
   <li>
@@ -61,6 +61,10 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
       <li>Docker, React, Spring Boot, Timefold experience.</li>
     </ul>
   </li>
+</ul>
+
+## Other Experience
+<ul class="timeline">
   <li>
     <h3>Student Assistant — Faculty of Science at Radboud University</h3>
     <div class="meta">Sep 2022 – present · Njmegen</div>
