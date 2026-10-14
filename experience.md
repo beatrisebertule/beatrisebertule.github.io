@@ -28,7 +28,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   <li>Vulnerability Research</li>
 </ul> -->
 
-## Relevant Experience
+## Relevant Work Experience
 
 <ul class="timeline">
   <li>
@@ -63,7 +63,7 @@ I want to deepen my expertise in cryptographic engineering, embedded systems, an
   </li>
 </ul>
 
-## Other Experience
+## Other Work Experience
 <ul class="timeline">
   <li>
     <h3>Student Assistant — Faculty of Science at Radboud University</h3>
